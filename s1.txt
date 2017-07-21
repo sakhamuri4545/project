@@ -1,0 +1,5 @@
+#include<stdio.h>
+
+"git clone"
+"git add file.txt"
+"git status"
