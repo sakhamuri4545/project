@@ -3,3 +3,6 @@
 "git clone"
 "git add file.txt"
 "git status"
+
+"git log"
+"git pull"
