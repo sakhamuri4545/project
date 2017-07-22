@@ -1,4 +1,5 @@
 #include<conio.h>
 
-"git status"
-"git commit -m "this is second ccommit"
+git status
+git commit -m "this is second ccommit
+git commit -am "second commit for s2.txt"
